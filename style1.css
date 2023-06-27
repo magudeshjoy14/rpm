@@ -1,0 +1,64 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    background-color: rgb(163, 155, 155);
+    color: white;
+    height: 140px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 90px;
+}
+
+aside {
+    float: left;
+    width: 40%
+}
+
+aside nav ul {
+    list-style: none;
+    background-color: rgb(200, 194, 194);
+    height: 200px;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+aside nav ul li {
+    padding-top: 5px;
+}
+
+aside nav ul li a:hover {
+    color: red;
+}
+
+aside nav ul li a:focus {
+    color: greenyellow;
+}
+
+article {
+    float: left;
+    background-color: rgb(76, 74, 74);
+    height: 215px;
+    width: 60%;
+    color: blanchedalmond;
+
+}
+
+article h2 {
+    padding: 20px 0px 0px 20px;
+}
+
+article p {
+    padding: 20px 0px 0px 20px;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    background-color: rgb(14, 26, 26);
+    color: white;
+    padding: 10px 0px;
+
+}

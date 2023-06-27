@@ -1,0 +1,32 @@
+h1 {
+    color: yellow;
+    font-size: 50px;
+}
+
+body {
+    background-color: white;
+}
+
+ul li {
+    list-style: none;
+}
+
+ul li a {
+    text-decoration: line-through;
+}
+
+article>p {
+    color: yellow;
+}
+span{
+    background-color: pink;
+    height: 200px;
+    width:50%;
+    display: block;
+}
+div{
+    background-color: pink;
+    height: 200px;
+    width:50%;
+    display: inline;
+}
