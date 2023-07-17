@@ -1,0 +1,48 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    background-color:antiquewhite;
+}
+
+.logo {
+    padding: 40px 40px;
+    float: left;
+}
+
+nav ul {
+    float: right;
+    padding: 40px 40px;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+    padding: 10px;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+.content {
+    text-align: center;
+    padding: 200px;
+}
+
+section .all_about {
+    margin: 10px 10px;
+    width: 100%;
+}
+
+section .full {
+    width: 30%;
+    border: 1px solid red;
+    float: left;
+    margin-left: 20px;
+    padding-left:10px;
+}
+
+section .images{
+    text-align: center;
+}

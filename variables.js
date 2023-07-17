@@ -1,0 +1,14 @@
+let myVar=100;
+let myFavoriteColor='Orange';
+let iHaveSuperPower=true;
+let time=5.15;
+console.log(myVar);
+console.log(myFavoriteColor);
+console.log(time);
+let x;
+console.log(x);
+console.log(typeof myVar);
+console.log(typeof lightsOn);
+console.log(typeof myFavoriteColor);
+console.log(typeof iHaveSuperPower);
+console.log(typeof x);

@@ -1,0 +1,12 @@
+.text {
+    padding-left: 69px;
+}
+.content{
+    padding-left: 10px;
+}
+.metadata{
+    padding-left: 5px;
+}
+.content a{
+    text-decoration: none;
+}

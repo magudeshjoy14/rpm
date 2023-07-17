@@ -1,0 +1,10 @@
+let myvariable='Namaste';
+console.log(myvariable,typeof myvariable);
+myvariable=1000;
+console.log(myvariable,typeof myvariable);
+myvariable=true;
+console.log(myvariable,typeof myvariable);
+myvariable=null;
+console.log(myvariable,typeof myvariable);
+myvariable=undefined;
+console.log(myvariable,typeof myvariable);

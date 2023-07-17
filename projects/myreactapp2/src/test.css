@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: bisque;
+}
+
+.head {
+    padding: 30px 30px;
+    float: left;
+}
+
+.side ul {
+    float: right;
+    padding: 30px 30px;
+}
+
+.side ul li {
+    display: inline;
+    padding: 10px;
+    list-style: none;
+}
+
+.side ul li a {
+    text-decoration: none;
+}
+
+.content {
+    clear: both;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.hi {
+    border: 1px solid red;
+}
+
+.hi:hover {
+    color: blue;
+}

@@ -1,0 +1,18 @@
+.right {
+    position: absolute;
+    left: 1300px;
+}
+
+.chat {
+    background-color: beige;
+    border: none;
+    padding: 7px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.what {
+    color: green;
+    font-size: 50px;
+    position: absolute;
+    bottom: 1px;
+}

@@ -1,0 +1,1 @@
+let array = [123.123,'orange',]
