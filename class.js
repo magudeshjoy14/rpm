@@ -22,3 +22,5 @@ emp1.doSomething();
 let abc = () => (1);
 
 console.log(abc());
+
+console.log(emp1);
